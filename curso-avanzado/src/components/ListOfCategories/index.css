@@ -1,0 +1,9 @@
+.contenedor-categories{
+    display: flex;
+    width: 100%;
+    overflow: auto;
+}
+
+.category{
+    padding: 0 8px;
+}

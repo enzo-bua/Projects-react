@@ -1,0 +1,11 @@
+main {
+  display: grid;;
+  place-items: center;
+}
+
+button{
+  background-color: rgb(151, 151, 185);
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
