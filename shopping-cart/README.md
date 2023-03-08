@@ -1,3 +1,5 @@
+DEPLOY: https://shopping-cart-bice-two.vercel.app/
+
 # Enunciado
 
 Ecommerce
